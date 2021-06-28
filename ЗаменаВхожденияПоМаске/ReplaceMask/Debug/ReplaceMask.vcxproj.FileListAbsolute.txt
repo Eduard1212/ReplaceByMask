@@ -1,0 +1,2 @@
+C:\Users\1\Desktop\ReplaceMask\Debug\ReplaceMask.exe
+C:\Users\1\Desktop\ReplaceMask\Debug\ReplaceMask.pdb
